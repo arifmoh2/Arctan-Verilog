@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/musta/Desktop/Temporary Project Stuff/project_arctan/project_arctan.srcs/sources_1/new/Atan.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Atan
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/musta/Desktop/Temporary Project Stuff/project_arctan/project_arctan.srcs/sim_1/new/test_atan.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_atan
+INFO: [VRFC 10-2458] undeclared symbol tte, assumed default net type wire [C:/Users/musta/Desktop/Temporary Project Stuff/project_arctan/project_arctan.srcs/sim_1/new/test_atan.v:70]

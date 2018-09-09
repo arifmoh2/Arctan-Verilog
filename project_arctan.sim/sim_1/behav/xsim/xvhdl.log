@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/musta/Desktop/Temporary Project Stuff/project_arctan/project_arctan.ip_user_files/ip/div_gen_0/sim/div_gen_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity div_gen_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/musta/Desktop/Temporary Project Stuff/project_arctan/project_arctan.ip_user_files/ip/div_gen_0/demo_tb/tb_div_gen_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_div_gen_0
